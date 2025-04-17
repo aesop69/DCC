@@ -1,5 +1,6 @@
-# DCC
-Debian Command Center
+## DCC
+# 🚀 Debian Command Center
+This software is being designed to hold real world examples of all command and syntex's for Debian unstable/experiamental.
 
 # 🚀 Debian Command Center System Documentation
 
